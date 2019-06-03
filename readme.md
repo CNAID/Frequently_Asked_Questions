@@ -1,4 +1,4 @@
-###1. The heritability of autoimmnue diseases
+### The heritability of autoimmnue diseases
 
 The heritability of lung cancer is ~41%, and previous genetic studies have identified xx loci in total
 The heritability of osteoarthritis is ~50%, and previous genetic studies have identified xx loci in total
