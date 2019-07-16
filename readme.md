@@ -5,4 +5,5 @@ The heritability of osteoarthritis is ~50%, and previous genetic studies have id
 The heritability of rheumatoid arthritis is ~60%, and previous genetic studies have identified xx loci in total
 The heritability of ankylosing spondylitis is ~90%, and previous genetic studies have identified xx loci in total
 The heritability of Psoriasis is ~90%, and previous genetic studies have identified xx loci in total
+Heritable common genetic variants contribute to 40% of autism spectrum disorder (ASD) risk
 ```
