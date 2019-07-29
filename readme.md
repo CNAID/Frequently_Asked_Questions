@@ -11,10 +11,10 @@ Heritable common genetic variants contribute to 40% of autism spectrum disorder 
 Sex ratio in various rheumatological diseases.
 ```
 Disease	Female:male ratio
-Sjögren's syndrome	9:1 [1]
-Systemic lupus erythematosus	7:1 [2]
-Rheumatoid arthritis	3:1 [3]
-Systemic sclerosis	3:1 [4]
-Psoriatic arthritis	1:1 [5]
-Ankylosing spondylitis	1:3 [6]
+Sjögren's syndrome	9:1
+Systemic lupus erythematosus	7:1
+Rheumatoid arthritis	3:1 
+Systemic sclerosis	3:1 
+Psoriatic arthritis	1:1 
+Ankylosing spondylitis	1:3
 ```
