@@ -13,8 +13,8 @@ Sex ratio in various rheumatological diseases.
 Disease	Female:male ratio
 Sjögren's syndrome	          9:1
 Systemic lupus erythematosus	  7:1
-Rheumatoid arthritis	        3:1 
-Systemic sclerosis	            3:1 
+Rheumatoid arthritis	          3:1 
+Systemic sclerosis	          3:1 
 Psoriatic arthritis	          1:1 
 Ankylosing spondylitis	          1:3
 ```
